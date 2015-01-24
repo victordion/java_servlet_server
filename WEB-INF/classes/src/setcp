@@ -1,0 +1,1 @@
+export CLASSPATH=.:./*:/opt/tomcat8/lib/*:/opt/tomcat8/webapps/upload/WEB-INF/classes/src/*
